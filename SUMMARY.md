@@ -10,7 +10,7 @@
 
 ## Arquitectura
 
-* [Untitled](arquitectura/untitled.md)
+* [Arquitectura de datos](arquitectura/untitled.md)
 
 ## Guias
 
