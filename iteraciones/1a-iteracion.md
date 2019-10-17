@@ -26,5 +26,13 @@ Encontraremos como primera instancia el cuadro principal, el cual nos muestra va
 Nos encontraremos tambien con la posibilidad de crear una contraseña de forma segura para poder ingresar al sistema de inscripción y tambien, en caso de olvidarnos, la posibilidad de elegir una pregunta de seguridad para poder reiniciar nuestro usuario y generar una nueva clave.  
 Una vez realizado todo esto, estamos en condiciones de dar de alta el usuario y asi, entrar de forma segura y confiable, al sistema de inscripción de la facultad.
 
+## 2019/10/17
+
+Se crea la pantalla inicial en la que se puede observar, temporalmente, en el margen superior izquierdo,  la opcion "Archivo". Dentro del mismo tenemos la opcion de cerrar sesion \(La cual nos lleva al menu de inicio de sesión y poder ingresar con otro usuario diferente\) y la opcion "Salir" que directamente cierra el programa.  
+En la parte central de la pantalla inicial, tambien por el momento, podemos observar tres botones.   
+1\) " + " Su funcion es la de Asignar las materias.  
+2\) " Persona con un signo mas" ... Su funcion es la de incorporar/agregar alumnos al programa.  
+3\) Boton con el dibujo de estadisticas.
+
 
 
