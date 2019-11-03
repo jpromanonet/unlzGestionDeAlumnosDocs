@@ -1,6 +1,10 @@
-# Arquitectura de datos
+---
+description: Diagrama de entidad relacion de la Iteracion I
+---
 
-## Diagrama Entidad-Relación
+# DER
+
+
 
 ![](../.gitbook/assets/diagramadeclases_gestionalumnosunlz.png)
 
