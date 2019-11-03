@@ -2,7 +2,7 @@
 
 ## Diagrama Entidad-Relación
 
-## Casos de uso de Datasets
+![](../.gitbook/assets/diagramadeclases_gestionalumnosunlz.png)
 
 
 

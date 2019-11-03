@@ -11,6 +11,9 @@
 ## Arquitectura
 
 * [Arquitectura de datos](arquitectura/untitled.md)
+* [Modelo Unificado](arquitectura/modelo-unificado/README.md)
+  * [Diagrama de Secuencia](arquitectura/modelo-unificado/diagrama-de-secuencia.md)
+  * [Casos de uso](arquitectura/modelo-unificado/casos-de-uso.md)
 
 ## Guias
 
