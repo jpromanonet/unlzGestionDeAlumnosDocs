@@ -17,5 +17,7 @@
 
 ## Guias
 
-* [Untitled](guias/untitled.md)
+* [Guia de Usuario](guias/untitled.md)
+* [Guia del Desarrollador](guias/guia-del-desarrollador.md)
+* [Guia del Administrador](guias/guia-del-administrador.md)
 
